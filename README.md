@@ -1,1 +1,1 @@
-crypto-place12345.netlify.app
+https://crypto-place12345.netlify.app/
