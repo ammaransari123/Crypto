@@ -1,3 +1,3 @@
-<a href="https://github.com/ammaransari123/Crypto" target="_blank">My GitHub Repo</a>
+<a href="https://github.com/ammaransari123/Crypto" target="_blank">https://crypto-place12345.netlify.app/</a>
 
-[My GitHub Repo](https://crypto-place12345.netlify.app/)
+
